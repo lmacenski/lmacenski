@@ -1,5 +1,4 @@
-### **Hi there i'm Luke,**
-#### **a high school student with an strong interest in Engineering, IT, and Design.**
+## **Hi there i'm Luke,** ### **a high school student with an strong interest in Engineering, IT, and Design.**
 
 #### I am currently working on and have completed a few projects, so feel free to check them out:
 * [SAVIOR](https://github.com/lmacenski/SAVIOR) - My Highschool Engineering Capstone Project
