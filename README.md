@@ -1,5 +1,7 @@
-### Hi there 👋
+## **Hi there i'm Luke,**
+### **I am a high school student with an strong interest in Engineering, IT, and Design.**
 
+I am currently working on a few projects, so check out my active repositories.
 <!--
 **lmacenski/lmacenski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
