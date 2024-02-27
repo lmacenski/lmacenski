@@ -1,7 +1,7 @@
-# **Hi there i'm Luke,**
-## **a high school student with an strong interest in Engineering, IT, and Design.**
+### **Hi there i'm Luke,**
+#### **a high school student with an strong interest in Engineering, IT, and Design.**
 
-###I am currently working on and have completed a few projects, so feel free to check them out:
+#### I am currently working on and have completed a few projects, so feel free to check them out:
 * [SAVIOR](https://github.com/lmacenski/SAVIOR) - My Highschool Engineering Capstone Project
 * [Meditab](https://github.com/lmacenski/meditab) - 2024 [RevolutionUC](https://revolutionuc.com/) 24 Hour Hackathon Project
 * OBDash - An OBDII Enabled Secondary Car Gague Cluster.
