@@ -4,6 +4,9 @@
 I am currently working on a few projects, so check out my active repositories.
 
 ![](https://komarev.com/ghpvc/?username=lmacenski&color=green)
+<p>
+  <a href = "https://www.linkedin.com/in/lukemacenski">
+	 <img src= "https://img.shields.io/badge/Linkedin-Luke_Macenski-blue?logo=linkedin"/>
 
 <!--
 **lmacenski/lmacenski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
