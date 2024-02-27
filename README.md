@@ -2,6 +2,9 @@
 ### **a high school student with an strong interest in Engineering, IT, and Design.**
 
 I am currently working on a few projects, so check out my active repositories.
+
+![](https://komarev.com/ghpvc/?username=lmacenski&color=green)
+
 <!--
 **lmacenski/lmacenski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
