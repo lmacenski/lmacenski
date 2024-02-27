@@ -1,7 +1,8 @@
 ## **Hi there i'm Luke,**
 ### **a high school student with an strong interest in Engineering, IT, and Design.**
 
-I am currently working on a few projects, so check out my active repositories.
+####I am currently working on and have completed a few projects, so feel free to check them out:
+* Savior
 
 ![](https://komarev.com/ghpvc/?username=lmacenski&color=green)
   <a href = "https://www.linkedin.com/in/lukemacenski">
