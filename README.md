@@ -4,7 +4,7 @@
 #### I am currently working on and have completed a few projects, so feel free to check them out:
 * [SAVIOR](https://github.com/lmacenski/SAVIOR) - My Highschool Engineering Capstone Project
 * [Meditab](https://github.com/lmacenski/meditab) - 2024 [RevolutionUC](https://revolutionuc.com/) 24 Hour Hackathon Project
-* [OBDash](https://github.com/lmacenski/OBDash) - An OBDII Enabled Secondary Car Gague Cluster.
+* [OBDash](https://github.com/lmacenski/OBDash) - An OBDII Enabled Secondary Car Gague Cluster
 
 ![](https://komarev.com/ghpvc/?username=lmacenski&color=green)
   <a href = "https://www.linkedin.com/in/lukemacenski">
