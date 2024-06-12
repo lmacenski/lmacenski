@@ -1,5 +1,5 @@
 ## **Hi there i'm Luke,** 
-### **a high school student with an strong interest in Engineering, IT, and Design.**
+### **a Freshman at Miami Univesity dual majoring in Computer and Electrical Engineering. Who has a strong intrest in engineering, IT, and design.**
 
 #### I am currently working on and have completed a few projects, so feel free to check them out:
 * [SAVIOR](https://github.com/lmacenski/SAVIOR) - My Highschool Engineering Capstone Project
