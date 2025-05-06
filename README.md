@@ -1,5 +1,5 @@
-## **Hi there i'm Luke,** 
-### **a Freshman at Miami University dual majoring in Computer and Electrical Engineering with a strong interest in engineering, IT, and design.**
+## **Hi there, I'm Luke!** 
+### **I'm a Freshman at Miami University, dual majoring in Computer and Electrical Engineering with a strong interest in engineering, IT, and design.**
 
 #### I am currently working on and have completed a few projects, so feel free to check them out:
 * [SAVIOR](https://github.com/lmacenski/SAVIOR) - My Highschool Engineering Capstone Project
